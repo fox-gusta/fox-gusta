@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Fox Gusta (foxgusta)
+# 👋 Olá, eu sou o Pablo Gustavo (foxgusta)
 
 🎓 **Estudante de Segurança da Informação**  
 🔴 Foco em **Red Team**, **Pentest** e estudos ofensivos  
