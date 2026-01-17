@@ -80,13 +80,6 @@ No momento, utilizo este GitHub principalmente para:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=foxgusta&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxgusta&layout=compact)
-
----
-
 ## 🤝 Comunidade
 
 Este perfil reflete meu compromisso com o **aprendizado contínuo**, troca de conhecimento e evolução dentro da comunidade de Segurança da Informação.
